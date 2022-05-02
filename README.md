@@ -4,7 +4,7 @@ The R package **Rmisc** is a colletion of functions useful for data analysis and
 
 ## Installation
 
-You can install the stable version on [CRAN](http://cran.r-project.org/package=Rmisc):
+You can install the stable version on [CRAN](https://cran.r-project.org/package=Rmisc):
   
 ```r
 install.packages('Rmisc', dependencies = TRUE)

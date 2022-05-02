@@ -19,3 +19,6 @@ importFrom(lattice,panel.polygon)
 importFrom(lattice,panel.superpose)
 importFrom(plyr,ddply)
 importFrom(plyr,rename)
+importFrom("stats", "AIC", "BIC", "aggregate", "as.formula", "formula",
+           "logLik", "model.frame", "nobs", "qt", "residuals", "sd",
+           "terms", "update")
